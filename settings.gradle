@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "EX0_PostPc_Liora_Itenberg"
